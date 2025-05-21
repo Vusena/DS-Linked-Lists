@@ -77,7 +77,7 @@ DoubleLinkedList dLL=new DoubleLinkedList(6);
         dLL.append(3);
         dLL.append(4);
         dLL.append(5);
-        dLL.printList();
+//        dLL.printList();
 
         //REMOVE LAST
         // (2) Items - Returns 2 Node
@@ -137,7 +137,9 @@ DoubleLinkedList dLL=new DoubleLinkedList(6);
 //        System.out.println("DLL after remove() of last node:");
 //        dLL.printList();
 
-
+//        //DELETING A LIST
+////        dLL.clear();
+//        dLL.printList();
 
 
     }

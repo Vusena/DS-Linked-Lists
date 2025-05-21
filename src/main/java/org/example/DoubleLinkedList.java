@@ -177,4 +177,11 @@ public class DoubleLinkedList {
         return temp;
     }
 
+    //DELETE A LIST
+    public void clear() {
+        head = null;
+        tail = null;
+        length = 0;
+    }
+
 }
