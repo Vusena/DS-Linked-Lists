@@ -62,6 +62,7 @@ public class LinkedList {
         length++;
     }
 
+
     //REMOVE LAST NODE
     public Node removeLast() {
         if (length == 0) return null;
